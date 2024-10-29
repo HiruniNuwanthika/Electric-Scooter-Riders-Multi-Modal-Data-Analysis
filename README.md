@@ -9,7 +9,7 @@
 
 **Speed Data Analysis**
 1. Process speed data using speed_data_processing.py
-- It includes timezone mapping, segmentation, speed change point detection, plotting and mapping timestamp with video file.
+-It includes timezone mapping, segmentation, speed change point detection, plotting and mapping timestamp with video file.
 
 
 **Fixation on Video**
