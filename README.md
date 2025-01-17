@@ -1,6 +1,5 @@
 # 🛴 Watch Out! E-scooter Coming Through!: Multimodal Sensing of Mixed Traffic Use and Conflicts Through Riders’ Ego-centric Views
 
-| <a href="https://arxiv.org/" target="_blank">📃 Paper </a> |
 
 ## 🔥 Introduction
 
@@ -30,7 +29,7 @@ E-scooters are becoming a popular means of urban transportation. However, this i
 
 ## 🛠️ Workflow
 
-<img src="./Figures/workflow.png" alt="workflow" style="width: 80%; height: auto;">
+<img src="./figures/workflow.png" alt="workflow" style="width: 80%; height: auto;">
 
 #### 👓 1 - Gaze Data Analysis
 1. Segment gaze data into 3 route segments using the timestamps given in TimeMapping_BikeComputer_EyeTracker.xlsx sheet.
